@@ -25,8 +25,8 @@ A simple recipe page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IGNORAMUS1/recipe-page.git)
-- Live Site URL: [Add live site URL here](https://ignoramus1.github.io/recipe-page/)
+- Solution URL: (https://github.com/IGNORAMUS1/recipe-page.git)
+- Live Site URL: (https://ignoramus1.github.io/recipe-page/)
 
 ### Built with
 
