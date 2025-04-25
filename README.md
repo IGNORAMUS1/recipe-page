@@ -59,3 +59,6 @@ I want to consistently improve my frontend development skills by building to fee
 - Frontend Mentor - [@IGNORAMUS](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
+
+
+I'm using this medium to say thanks to Frontend Mentor team and the maker of this design for making this challenge available for free.
